@@ -1,28 +1,11 @@
 {
   "name": "cordova-plugin-xfyunvoice",
-  "version": "0.0.1",
-  "description": "Cordova xf Voice Plugin",
-  "cordova": {
-    "id": "cordova-plugin-xfyunvoice",
-    "platforms": [
-      "android"
-    ]
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MicahStudio/cordova-plugin-xfyunvoice.git"
-  },
-  "keywords": [
-    "cordova",
-    "xfyun",
-    "voice",
-    "ecosystem:cordova",
-    "cordova-android"
-  ],
-  "author": "OuJun",
-  "license": "MIT License",
-  "bugs": {
-    "url": "https://github.com/MicahStudio/cordova-plugin-xfyunvoice/issues"
-  },
-  "homepage": "https://github.com/MicahStudio/cordova-plugin-xfyunvoice#readme"
+  "author": "",
+  "license": "ISC"
 }
