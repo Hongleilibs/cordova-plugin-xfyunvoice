@@ -50,7 +50,6 @@
         <source-file src="src/android/assets/iflytek/voice_empty.png" target-dir="app/src/main/assets/iflytek"/>
         <source-file src="src/android/assets/iflytek/voice_full.png" target-dir="app/src/main/assets/iflytek"/>
         <source-file src="src/android/assets/iflytek/waiting.png" target-dir="app/src/main/assets/iflytek"/>
-        <source-file src="src/android/assets/iflytek/warning.png" target-dir="app/src/main/assets/iflytek"/> 
 
         <framework src="com.android.support:support-v4:23.+" />
     </platform> 
