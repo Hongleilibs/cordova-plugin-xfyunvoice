@@ -26,6 +26,6 @@ Optionally you can pass third parameter which can be used to hide the share butt
 ##### Usage
 
 ```
-voice.showMultiple();
+voice.startVoice();
 ```
 
